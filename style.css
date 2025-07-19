@@ -1,0 +1,37 @@
+.header {
+    background-color: #1F2937;
+    font-family: Roboto, sans-serif, 'Times New Roman'
+}
+
+.logo {
+    color: #F9FAF8;
+    font-size: 24px;
+
+}
+
+.hero {
+    color: #F9FAF8;
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.secondary-text {
+    color: #E5E7EB;
+    list-style: none;
+    
+}
+.secondary-text a {
+    text-decoration: none;
+    color: inherit
+}
+
+.sign-up {
+    background-color: #3882f6;
+    color:#E5E7EB;
+    border-radius: 20px;
+}
+
+.placeholder {
+    color: #E5E7EB;
+    font-style: italic;
+}
